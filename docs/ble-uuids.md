@@ -21,7 +21,7 @@ Base UUID: 00002760-08c2-11e1-9073-0e8ac72e{xxxx}
 | `0x0842` | 5401 | Write | Commands (Phone -> Glasses) |
 | `0x0844` | 5402 | Notify | Responses (Glasses -> Phone) |
 | `0x0864` | 6402 | Write | Display/Rendering commands |
-| `0x0884` | ? | Notify | Secondary control (audio?) |
+| `0x0884` | ? | Notify | Secondary control? |
 
 ## Characteristic Properties
 
